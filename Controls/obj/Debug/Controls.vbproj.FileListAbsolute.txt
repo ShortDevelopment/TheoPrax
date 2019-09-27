@@ -1,0 +1,10 @@
+c:\users\margi\documents\visual studio 2015\Projects\Controls\Controls\bin\Debug\Controls.dll
+c:\users\margi\documents\visual studio 2015\Projects\Controls\Controls\bin\Debug\Controls.pdb
+c:\users\margi\documents\visual studio 2015\Projects\Controls\Controls\bin\Debug\Controls.xml
+c:\users\margi\documents\visual studio 2015\Projects\Controls\Controls\obj\Debug\Controls.Resources.resources
+c:\users\margi\documents\visual studio 2015\Projects\Controls\Controls\obj\Debug\Controls.vbproj.GenerateResource.Cache
+c:\users\margi\documents\visual studio 2015\Projects\Controls\Controls\obj\Debug\Controls.dll
+c:\users\margi\documents\visual studio 2015\Projects\Controls\Controls\obj\Debug\Controls.xml
+c:\users\margi\documents\visual studio 2015\Projects\Controls\Controls\obj\Debug\Controls.pdb
+C:\Users\margi\Documents\Visual Studio 2015\Projects\Controls\Controls\obj\Debug\Controls._3Diewer.resources
+C:\Users\margi\documents\visual studio 2015\Projects\Controls\Controls\bin\Debug\Controls.tlb
