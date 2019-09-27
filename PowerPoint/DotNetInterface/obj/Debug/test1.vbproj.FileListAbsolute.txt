@@ -1,0 +1,8 @@
+C:\Users\lukas.LUKAS\Documents\Visual Studio 2015\Projects\ScienceAcademy\test1\bin\Debug\test1.dll
+C:\Users\lukas.LUKAS\Documents\Visual Studio 2015\Projects\ScienceAcademy\test1\bin\Debug\test1.pdb
+C:\Users\lukas.LUKAS\Documents\Visual Studio 2015\Projects\ScienceAcademy\test1\bin\Debug\test1.xml
+C:\Users\lukas.LUKAS\Documents\Visual Studio 2015\Projects\ScienceAcademy\test1\obj\Debug\test1.Resources.resources
+C:\Users\lukas.LUKAS\Documents\Visual Studio 2015\Projects\ScienceAcademy\test1\obj\Debug\test1.vbproj.GenerateResource.Cache
+C:\Users\lukas.LUKAS\Documents\Visual Studio 2015\Projects\ScienceAcademy\test1\obj\Debug\test1.dll
+C:\Users\lukas.LUKAS\Documents\Visual Studio 2015\Projects\ScienceAcademy\test1\obj\Debug\test1.xml
+C:\Users\lukas.LUKAS\Documents\Visual Studio 2015\Projects\ScienceAcademy\test1\obj\Debug\test1.pdb
