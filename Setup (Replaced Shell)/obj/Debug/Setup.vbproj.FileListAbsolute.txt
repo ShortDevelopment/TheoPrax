@@ -1,0 +1,15 @@
+E:\ScienceAcademy\Messtechnik und Didaktik\Programm\Setup\bin\Debug\Setup.exe.config
+E:\ScienceAcademy\Messtechnik und Didaktik\Programm\Setup\bin\Debug\Setup.exe
+E:\ScienceAcademy\Messtechnik und Didaktik\Programm\Setup\bin\Debug\Setup.pdb
+E:\ScienceAcademy\Messtechnik und Didaktik\Programm\Setup\bin\Debug\Setup.xml
+E:\ScienceAcademy\Messtechnik und Didaktik\Programm\Setup\obj\Debug\Setup.Form1.resources
+E:\ScienceAcademy\Messtechnik und Didaktik\Programm\Setup\obj\Debug\Setup.Resources.resources
+E:\ScienceAcademy\Messtechnik und Didaktik\Programm\Setup\obj\Debug\Setup.vbproj.GenerateResource.Cache
+E:\ScienceAcademy\Messtechnik und Didaktik\Programm\Setup\obj\Debug\Setup.exe
+E:\ScienceAcademy\Messtechnik und Didaktik\Programm\Setup\obj\Debug\Setup.xml
+E:\ScienceAcademy\Messtechnik und Didaktik\Programm\Setup\obj\Debug\Setup.pdb
+E:\ScienceAcademy\Messtechnik und Didaktik\Programm\Setup\obj\Debug\Setup.vbprojResolveAssemblyReference.cache
+Y:\ScienceAcademy\Messtechnik und Didaktik\Programm\Setup\bin\Debug\Setup.exe.config
+Y:\ScienceAcademy\Messtechnik und Didaktik\Programm\Setup\obj\Debug\Setup.exe
+Y:\ScienceAcademy\Messtechnik und Didaktik\Programm\Setup\obj\Debug\Setup.xml
+Y:\ScienceAcademy\Messtechnik und Didaktik\Programm\Setup\obj\Debug\Setup.pdb
