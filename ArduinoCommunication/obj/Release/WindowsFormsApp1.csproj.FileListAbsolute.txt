@@ -1,0 +1,10 @@
+C:\Lukas\ScienceAcademy\Programm\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Lukas\ScienceAcademy\Programm\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Lukas\ScienceAcademy\Programm\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Lukas\ScienceAcademy\Programm\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Lukas\ScienceAcademy\Programm\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Lukas\ScienceAcademy\Programm\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Lukas\ScienceAcademy\Programm\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Lukas\ScienceAcademy\Programm\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Lukas\ScienceAcademy\Programm\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
+C:\Lukas\ScienceAcademy\Programm\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csprojAssemblyReference.cache
